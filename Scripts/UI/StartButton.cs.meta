@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fb023742911e2b14d817d12c5a0fc7f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {fileID: 3623515577708094074, guid: 360e39e2847844a42889a11618154892, type: 3}
+  - canvas: {fileID: 4767063611936547467, guid: b78f450a74ade2249ab3659b5e5058ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
